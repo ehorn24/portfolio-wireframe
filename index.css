@@ -1,0 +1,45 @@
+* {
+  text-align: center;
+}
+
+nav {
+  background-color: lightgray;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  z-index: 9999;
+}
+
+main {
+  margin-top: 50px;
+}
+
+section {
+  height: 200px;
+  margin: 0;
+  padding: 0;
+  border: 1px solid black;
+}
+
+h2 {
+  position: relative;
+  top: 50%;
+}
+
+.intro {
+  background-color: #bbb;
+}
+
+.about-me {
+  background-color: #ddd;
+}
+
+.projects {
+  background-color: #bbb;
+}
+
+.contact {
+  background-color: #ddd;
+}
